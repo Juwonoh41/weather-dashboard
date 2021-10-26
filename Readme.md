@@ -4,3 +4,5 @@ for the city that the user inputted.
 Picture link
 ![AF7C5B07-C71B-47B8-9235-0A2FFD651C58_1_105_c](https://user-images.githubusercontent.com/89501438/138965931-f8cc2bf3-5874-4b21-a899-6b966c984357.jpeg)
 
+live site link
+https://juwonoh41.github.io/week-6-homework/
