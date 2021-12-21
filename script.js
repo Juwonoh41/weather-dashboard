@@ -1,7 +1,7 @@
 //web api
 var search = [];
 var weatherApi = 'https://api.openweathermap.org';
-var weatherKey = 'd91f911bcf2c0f925fb6535547a5ddc9';
+var weatherKey = '120f4b3c9864fb7270156fd66975a005';
 
 
 var searchEl = document.querySelector('#history');
